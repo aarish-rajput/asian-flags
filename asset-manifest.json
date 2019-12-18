@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/asian-flags/static/css/main.f79ee97c.chunk.css",
+    "main.js": "/asian-flags/static/js/main.99993d5b.chunk.js",
+    "main.js.map": "/asian-flags/static/js/main.99993d5b.chunk.js.map",
+    "runtime-main.js": "/asian-flags/static/js/runtime-main.352a1499.js",
+    "runtime-main.js.map": "/asian-flags/static/js/runtime-main.352a1499.js.map",
+    "static/js/2.61833dc2.chunk.js": "/asian-flags/static/js/2.61833dc2.chunk.js",
+    "static/js/2.61833dc2.chunk.js.map": "/asian-flags/static/js/2.61833dc2.chunk.js.map",
+    "index.html": "/asian-flags/index.html",
+    "precache-manifest.f24ff97b3093b143164ba027e898fe70.js": "/asian-flags/precache-manifest.f24ff97b3093b143164ba027e898fe70.js",
+    "service-worker.js": "/asian-flags/service-worker.js",
+    "static/css/main.f79ee97c.chunk.css.map": "/asian-flags/static/css/main.f79ee97c.chunk.css.map",
+    "static/js/2.61833dc2.chunk.js.LICENSE": "/asian-flags/static/js/2.61833dc2.chunk.js.LICENSE",
+    "static/media/afghanistan.jpg": "/asian-flags/static/media/afghanistan.6e145429.jpg",
+    "static/media/bhutan.jpg": "/asian-flags/static/media/bhutan.c2ed0d02.jpg",
+    "static/media/brunei.jpg": "/asian-flags/static/media/brunei.d56eb739.jpg",
+    "static/media/cambodia.jpg": "/asian-flags/static/media/cambodia.a8097db8.jpg",
+    "static/media/cyprus.jpg": "/asian-flags/static/media/cyprus.6fe9179f.jpg",
+    "static/media/iran.jpg": "/asian-flags/static/media/iran.80b18063.jpg",
+    "static/media/israel.jpg": "/asian-flags/static/media/israel.932dc68c.jpg",
+    "static/media/kazakhstan.jpg": "/asian-flags/static/media/kazakhstan.e6a3c267.jpg",
+    "static/media/kyrgyzstan.jpg": "/asian-flags/static/media/kyrgyzstan.ef2341a9.jpg",
+    "static/media/lebnon.jpg": "/asian-flags/static/media/lebnon.41c4515a.jpg",
+    "static/media/malaysia.jpg": "/asian-flags/static/media/malaysia.4b21274a.jpg",
+    "static/media/myanmar.jpg": "/asian-flags/static/media/myanmar.b00d0491.jpg",
+    "static/media/nepal.jpg": "/asian-flags/static/media/nepal.d6f78357.jpg",
+    "static/media/north-korea.jpg": "/asian-flags/static/media/north-korea.a410a7c1.jpg",
+    "static/media/philippines.jpg": "/asian-flags/static/media/philippines.ee08aa0a.jpg",
+    "static/media/saudi-arabia.jpg": "/asian-flags/static/media/saudi-arabia.bf4bd7ab.jpg",
+    "static/media/south-korea.jpg": "/asian-flags/static/media/south-korea.a0cd487f.jpg",
+    "static/media/sri-lanka.jpg": "/asian-flags/static/media/sri-lanka.4bf07c7c.jpg",
+    "static/media/turkmenistan.jpg": "/asian-flags/static/media/turkmenistan.0261020a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.352a1499.js",
+    "static/js/2.61833dc2.chunk.js",
+    "static/css/main.f79ee97c.chunk.css",
+    "static/js/main.99993d5b.chunk.js"
+  ]
+}
