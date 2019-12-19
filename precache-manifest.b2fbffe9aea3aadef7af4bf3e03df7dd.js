@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f57c31b5055592dfdcfda94fe2489415",
+    "revision": "20115ed4283f150a3e0817c21cc9b829",
     "url": "/asian-flags/index.html"
   },
   {
-    "revision": "3084cd9dd4df96f83a00",
+    "revision": "e7d34bd712d7b5224335",
     "url": "/asian-flags/static/css/main.f79ee97c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/asian-flags/static/js/2.61833dc2.chunk.js.LICENSE"
   },
   {
-    "revision": "3084cd9dd4df96f83a00",
-    "url": "/asian-flags/static/js/main.99993d5b.chunk.js"
+    "revision": "e7d34bd712d7b5224335",
+    "url": "/asian-flags/static/js/main.315cfa26.chunk.js"
   },
   {
     "revision": "ded8fdd00a3fbe0d5118",

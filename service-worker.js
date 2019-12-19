@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/asian-flags/precache-manifest.f24ff97b3093b143164ba027e898fe70.js"
+  "/asian-flags/precache-manifest.b2fbffe9aea3aadef7af4bf3e03df7dd.js"
 );
 
 self.addEventListener('message', (event) => {
