@@ -1,34 +1,34 @@
-import React, { Component } from 'react';
+import React, { useState } from 'react';
 import './App.css';
 import Searchbox from './Components/searchbox';
 import Flaglist from './Components/flaglist';
 import { flagsarray } from './Components/flagsarray';
 
-class App extends Component {
+function App(){
 
-  state = {
-    flagsarray: flagsarray,
-    searchfield: ''
+
+
+  const[flagarray, setFlagarray] = useState(flagsarray);
+  const[searchfield, setSearchfield] = useState('');
+
+  const searchChangeHandler = (e) => {
+    setSearchfield(e.target.value)
   }
 
-  searchChangeHandler = (e) => {
-    this.setState({ searchfield: e.target.value })
-  }
 
-  render() {
-    const filterdflag = this.state.flagsarray.filter(flag => {
-      return flag.name.toLocaleLowerCase().includes(this.state.searchfield.toLocaleLowerCase())
+    const filterdflag = flagarray.filter(flag => {
+      return flag.name.toLocaleLowerCase().includes(searchfield.toLocaleLowerCase())
 
     })
 
     return (
       <div className="App">
         <h1>Asian Flags</h1>
-        <Searchbox searchChange={this.searchChangeHandler} />
+        <Searchbox searchChange={searchChangeHandler} />
         <Flaglist flagsarray={filterdflag} />
       </div>
     );
   }
-}
+
 
 export default App;

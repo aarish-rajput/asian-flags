@@ -9,8 +9,10 @@ const flaglist = ({ flagsarray }) => {
         <div>{
 
             flagsarray.map((user, i) => {
+                 console.log(user);
                 return (
                     <div key={i} className="container">
+                           
                         <Flags name={flagsarray[i].name} img={flagsarray[i].img} />
                     </div>
                 )
